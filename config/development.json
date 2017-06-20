@@ -1,0 +1,10 @@
+{
+  "make" : {
+    "url" : "http://localhost:8075",
+    "redis" : {
+      "db": 4,
+      "host": "localhost",
+      "port": 6379
+    }
+  }
+}
