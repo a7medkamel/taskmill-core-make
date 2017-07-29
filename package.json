@@ -26,7 +26,6 @@
     "redis": "^2.7.1",
     "socket.io": "^1.7.4",
     "socketio-jwt": "^4.5.0",
-    "taskmill-core-make-sdk": "git+https://github.com/a7medkamel/taskmill-core-make-sdk.git",
     "weighted": "^0.3.0",
     "winston": "^2.3.1"
   }
