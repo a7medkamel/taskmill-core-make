@@ -1,6 +1,10 @@
 {
   "make" : {
     "url" : "http://make.breadboard.io:8075",
+    "agent": {
+      "sub" : "agent@localhost",
+      "aud" : "make"
+    },
     "redis" : {
       "db": 4,
       "host": "[REDIS_HOST]",
