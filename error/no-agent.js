@@ -1,3 +1,3 @@
 var error_ex = require('error-ex');
 
-return error_ex('AgentError');
+module.exports = error_ex('AgentError');
